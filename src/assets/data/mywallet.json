@@ -1,0 +1,191 @@
+[
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "maple_leaf",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "maple_leaf",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "maple_leaf",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "american_eagle",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2018
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "american_eagle",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2018
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "american_eagle",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2020
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "american_eagle",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2020
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "krugerrand",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2020
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "britannia",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "philharmoniker",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2013
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "moon_landing",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "kookaburra",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2019
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "kangaroo",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2016
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "kangaroo",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2016
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "kangaroo",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2016
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "kangaroo",
+        "unit": "oz",
+        "weight": 1,
+        "purity": 1,
+        "year": 2018
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "libertad",
+        "unit": "oz",
+        "weight": 0.5,
+        "purity": 1,
+        "year": 2017
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "battle_of_coral_sea",
+        "unit": "oz",
+        "weight": 0.5,
+        "purity": 1,
+        "year": 2014
+    },
+    {
+        "type": "coin",
+        "metal": "silver",
+        "name": "battle_of_coral_sea",
+        "unit": "oz",
+        "weight": 0.5,
+        "purity": 1,
+        "year": 2014
+    },
+    {
+        "type": "coin",
+        "metal": "gold",
+        "name": "ducat",
+        "unit": "oz",
+        "weight": 0.5,
+        "purity": 1,
+        "year": 1915
+    },
+    {
+        "type": "coin",
+        "metal": "gold",
+        "name": "ducat",
+        "unit": "oz",
+        "weight": 0.5,
+        "purity": 1,
+        "year": 1915
+    }
+]
